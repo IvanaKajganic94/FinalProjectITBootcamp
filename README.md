@@ -8,6 +8,7 @@ Here is my first Automation Test for demo site called [ToolsQA](https://demoqa.c
 - Check Box
 - Web Tables
 - Buttons
+- Practice Form
 
  **Technologies and Key Concepts that I used**
 - Java
