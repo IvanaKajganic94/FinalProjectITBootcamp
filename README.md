@@ -1,6 +1,6 @@
 # FinalProjectITBootcamp
 
-Here is my first Automation Test for demo site called [ToolsQA](https://demoqa.com/) 
+Here is my first Automation Test for demo site **[ToolsQA](https://demoqa.com/) **
 ***
 **Pages** that are tested are: 
 
