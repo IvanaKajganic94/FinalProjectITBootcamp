@@ -52,10 +52,10 @@ public class ToolsQA_Base {
         ImageIO.write(saveImage, "png", new File("C:\\Users\\Ivana\\Desktop\\meme.png"));
     }
 
-//    @AfterClass
-//    public void tearDown() {
-//        driver.close();
-//        driver.quit();
-//    }
+    @AfterClass
+    public void tearDown() {
+        driver.close();
+        driver.quit();
+    }
 
 }
