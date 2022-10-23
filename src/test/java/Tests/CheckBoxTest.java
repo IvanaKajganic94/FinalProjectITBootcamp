@@ -1,7 +1,6 @@
 package Tests;
 
 import Base.ToolsQA_Base;
-import Pages.Elements.Buttons;
 import Pages.Elements.CheckBox;
 import Pages.ToolsQAMainPage;
 import Pages.ToolsQASidebarPage;
